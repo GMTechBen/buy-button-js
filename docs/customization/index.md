@@ -364,7 +364,7 @@ Configures the product contained within the modal. Allows product in modal to ha
 All attributes, contents, and text are as Product component.
 
 ## Toggle component
-Configures the small tab at the right side of the screen which opens and closes the cart. Also displays number of items contaiend in the cart. Created by Cart component.
+Configures the small tab at the right side of the screen which opens and closes the cart. Also displays number of items contained in the cart. Created by Cart component.
 
 ### Toggle contents defaults
 
